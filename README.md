@@ -68,6 +68,6 @@ Proveedores de Servicios de Almacenamiento
 Optimización de recursos (imágenes, scripts)   
 Despliegue de aplicaciones web   
 CI/CD básico   
-Documentación del proyecto
+Documentación del proyecto  
 <img width="494" height="208" alt="image" src="https://github.com/user-attachments/assets/f7735315-f9e3-4905-9c8a-df9588b6aa36" />
 
